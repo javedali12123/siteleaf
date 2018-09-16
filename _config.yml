@@ -1,6 +1,6 @@
 ---
-title: Learn Siteleaf
-timezone: America/New_York
+title: Ali javed
+timezone: Asia/Kolkata
 collections:
   api:
     title: API
@@ -115,14 +115,14 @@ defaults:
   values:
     layout: page
     color: darkest-gray
-url: http://learn.siteleaf.com
+url: http://alijaved.siteleaf.net
 permalink: pretty
 exclude:
 - Gemfile
 - Gemfile.lock
 - README*
 - ".gitignore"
-github_url: https://github.com/siteleaf/learn.siteleaf.com
+github_url: https://github.com/javedali12123/siteleaf
 sass:
   style: compressed
 gems:
